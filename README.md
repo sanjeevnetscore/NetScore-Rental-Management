@@ -1,1 +1,0 @@
-# NetScore-Rental-Management
